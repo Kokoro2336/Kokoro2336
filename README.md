@@ -1,16 +1,21 @@
-## Hi there 👋
+## Welcome to my page.
 
-<!--
-**Kokoro2336/Kokoro2336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I'm Kokoro, a sophomore at **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in **Computer Science and Technology**.
 
-Here are some ideas to get you started:
+I'm interested in full stack development, computer architechture, and especially **compiler engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I'm preparing for **2026 CSCC Huawei Bisheng Compiler Competetion**.
+
+### Stats
+Emm...I'm a freshman, and this is my stats on Github:
+
+![My Acitivities](https://github-readme-stats.vercel.app/api?username=Kokoro2336&show=reviews&show_icons=true)
+
+My activities:
+
+![Kokoro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kokoro2336&theme=rogue)
+
+As for languages, I use **Rust** and **Python** most, and I'm going to try C++:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoro2336)
