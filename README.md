@@ -10,7 +10,7 @@ Now I'm preparing for **2026 CSCC Huawei Bisheng Compiler Competetion**.
 ### Stats
 Emm...I'm a freshman, and this is my stats on Github:
 
-![My Acitivities](https://github-readme-stats.vercel.app/api?username=Kokoro2336&show=reviews&show_icons=true)
+![My Acitivities](https://github-readme-stats.vercel.app/api?username=Kokoro2336&show=reviews&show_icons=true&theme=tokyonight)
 
 My activities:
 
@@ -18,4 +18,6 @@ My activities:
 
 As for languages, I use **Rust** and **Python** most, and I'm going to try C++:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoro2336)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
+
+![Kokoro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kokoro2336)
