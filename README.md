@@ -20,4 +20,4 @@ As for languages, I use **Rust** and **Python** most, and I'm going to try C++:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
 
-![Kokoro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kokoro2336&theme=tokyonight)
+![Kokoro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kokoro2336&theme=tokyonight&v=2)
