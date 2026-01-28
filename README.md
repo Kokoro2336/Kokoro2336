@@ -14,7 +14,7 @@ Emm...I'm a freshman, and this is my stats on Github:
 
 My activities:
 
-![Kokoro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kokoro2336&theme=rogue)
+![Kokoro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kokoro2336&theme=tokyo-night)
 
 As for languages, I use **Rust** and **Python** most, and I'm going to try C++:
 
