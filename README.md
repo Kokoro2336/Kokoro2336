@@ -3,9 +3,9 @@
 ### About me
 I'm Kokoro, a sophomore at **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in **Computer Science and Technology**.
 
-I'm interested in full stack development, computer architechture, and especially **compiler engineering**.
+I'm interested in frontend development, computer architechture, and especially **compiler engineering**.
 
-Now I'm preparing for **2026 CSCC Huawei Bisheng Compiler Competetion**.
+I used to get national first prize in **2025 CSCC OSCOMP**. Now I'm preparing for **2026 CSCC Huawei Bisheng Compiler Competetion**.
 
 ### Stats
 Emm...I'm a freshman, and this is my stats on Github:
