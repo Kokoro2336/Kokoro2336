@@ -10,7 +10,7 @@ I used to win national first prize in **2025 CSCC Operating System Competetion**
 ### Stats
 Emm...I'm a freshman, and this is my stats on Github:
 
-![My Acitivities](https://github-readme-stats.vercel.app/api?username=Kokoro2336&show=reviews&show_icons=true&theme=tokyonight)
+![My Acitivities](https://github-readme-stats-kokoro2336.vercel.app/api?username=Kokoro2336&show=reviews&show_icons=true&theme=tokyonight)
 
 My activities:
 
@@ -18,6 +18,6 @@ My activities:
 
 As for languages, I use **Rust** and **Python** most, and I'm going to try C++:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats-kokoro2336.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
 
-![Kokoro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kokoro2336&theme=tokyonight&v=2)
+![Kokoro's WakaTime stats](https://github-readme-stats-kokoro2336.vercel.app/api/wakatime?username=Kokoro2336&theme=tokyonight&v=2)
