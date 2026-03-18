@@ -1,7 +1,7 @@
-## Welcome to my page.
+## Kokoro Desu.
 
 ### About me
-I'm Kokoro, a sophomore at **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in **Computer Science and Technology**.
+Sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in **Computer Science and Technology**.
 
 I'm interested in frontend development, computer architechture, and especially **compiler engineering**.
 
