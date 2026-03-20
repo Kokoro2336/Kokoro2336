@@ -3,7 +3,10 @@
 ### About me
 Sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in **Computer Science and Technology**.
 
-I'm interested in frontend development, computer architechture, and especially **compiler engineering**.
+My technical interest lies in:
+* **Compiler Engineering**.
+* Frontend Development
+* Computer Architechture
 
 I used to win national first prize in **2025 CSCC Operating System Competition**. Now I'm preparing for **2026 CSCC Huawei Bisheng Compiler Competition**.
 
