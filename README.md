@@ -3,7 +3,8 @@
 ### About me
 
 * Sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in Computer Science and Technology.
-* Winner of national first prize in 2025 CSCC Operating System Competition. 
+* Winner of national first prize in 2025 CSCC Operating System Competition.
+* A Rustacean!
 
 ### Technical Interests
 
