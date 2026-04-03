@@ -5,8 +5,7 @@ Sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in 
 
 My technical interest lies in:
 * **Compiler Engineering**.
-* Frontend Development
-* Computer Architechture
+* Full Stack Development
 
 I used to win national first prize in **2025 CSCC Operating System Competition**. Now I'm preparing for **2026 CSCC Huawei Bisheng Compiler Competition**.
 
@@ -15,8 +14,4 @@ I used to win national first prize in **2025 CSCC Operating System Competition**
 
 ![Kokoro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kokoro2336&theme=tokyo-night)
 
-As for languages, I use **Rust** and **Python** most, and I'm going to try C++:
-
 ![Top Langs](https://github-readme-stats-kokoro2336.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
-
-![Kokoro's WakaTime stats](https://github-readme-stats-kokoro2336.vercel.app/api/wakatime?username=Kokoro2336&theme=tokyonight&v=2)
