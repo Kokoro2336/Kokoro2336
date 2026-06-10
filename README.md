@@ -13,7 +13,7 @@
 
 ### For now?
 
-Preparing for 2026 CSCC Huawei Bisheng Compiler Competition.
+Interning at SKLP of ICT, CAS.
 
 ### Stats
 ![Top Langs](https://github-readme-stats-kokoro2336.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
