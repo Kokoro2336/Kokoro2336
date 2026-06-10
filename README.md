@@ -13,7 +13,7 @@
 
 ### For now?
 
-Interning at [SKLP of ICT, CAS](https://sklp.ict.ac.cn/).
+Intern @ [SKLP, ICT, CAS](https://sklp.ict.ac.cn/).
 
 ### Stats
 ![Top Langs](https://github-readme-stats-kokoro2336.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
