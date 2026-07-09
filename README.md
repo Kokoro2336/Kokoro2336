@@ -1,18 +1,13 @@
 ## Kokoro Desu.
 
-### About me?
+* CS Sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ).
+* Intern @ [SKLP, ICT, CAS](https://sklp.ict.ac.cn/).
 
-* Sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ), majoring in Computer Science and Technology.
-* A Rustacean!
+My Technical Interests:
 
-### Technical Interests?
-
-* Compiler Engineering.
-* **Everything about Rust!**
-
-### For now?
-
-Intern @ [SKLP, ICT, CAS](https://sklp.ict.ac.cn/).
+* AI Infrastructure
+* Compiler Engineering/Programming Language Theory
+* **Everything about Rust**
 
 ### Stats
 ![Top Langs](https://github-readme-stats-kokoro2336.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
