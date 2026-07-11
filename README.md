@@ -12,6 +12,7 @@ My Technical Interests:
 * Everything about Rust
 
 Some GitHub Stats:
+
 ![Top Langs](https://github-readme-stats-kokoro2336.vercel.app/api/top-langs/?username=Kokoro2336&layout=donut&theme=tokyonight)
 ![My Acitivities](https://github-readme-stats-kokoro2336.vercel.app/api?username=Kokoro2336&show=reviews&show_icons=true&theme=tokyonight)
 
