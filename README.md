@@ -2,7 +2,7 @@
 
 **Who Am I**:
 
-* CS sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ).
+* CS sophomore from **HITSZ**.
 * Intern @ [Z.ai](https://github.com/zai-org).
 
 **My Technical Interests**:
