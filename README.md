@@ -3,7 +3,7 @@
 **Who Am I**:
 
 * CS sophomore from **Harbin Institude of Technology, Shenzhen**(HITSZ).
-* Intern @ [SKLP, ICT, CAS](https://sklp.ict.ac.cn/).
+* Intern @ [Z.ai](https://github.com/zai-org).
 
 **My Technical Interests**:
 
