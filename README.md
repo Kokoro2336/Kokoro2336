@@ -3,7 +3,6 @@
 **Who Am I**:
 
 * CS sophomore from **HITSZ**.
-* Intern @ [Z.ai](https://github.com/zai-org).
 
 **My Technical Interests**:
 
