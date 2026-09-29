@@ -2,7 +2,7 @@
 
 **Who Am I**:
 
-* CS sophomore from **HITSZ**.
+* CS junior from **HITSZ**.
 
 **My Technical Interests**:
 
